@@ -1,0 +1,93 @@
+body {
+    text-align: center;
+margin: 0;
+    padding-top: 800px;
+}
+
+#h1 {
+    text-shadow: 2px 2px #F8BBDO;
+    font-size: 20px;
+}
+
+#About {
+    position: absolute;
+    color: #FFFFFF;
+    bottom: 0;
+     background: linear-gradient(#E1BEE7 0%, #90CAF9 100%);
+    background-repeat: no-repeat;
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+#My Favourite Hobby{
+ background: linear-gradient(#60ebeb 0%, #27ae60 100%);   
+}
+
+img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+#My Favorite hobby{
+font-family: 'Cinzel Decorative', cursive;
+    padding: 50px;
+text-align: center;
+}
+.menu{
+   list-style:none;
+    font-family: cursive;
+    float:right;
+    top: 10px;
+    right: 30px;
+    cursor:pointer;
+    color:black;
+}
+.line {
+    height: 6px;
+    background-color: (#60ebeb 0%, #27ae60 100%);
+    width: 70px;
+    margin: 800px auto;
+}
+#myname{
+    font-family: 'Courgette',cursive;
+}
+html{
+    scroll-behavior: smooth;
+}
+img{
+    transform: transform .2s;
+    border: 10px solid #AAAAAA;
+}
+img:hover{
+    transform: scale(0.9);
+}
+a {
+    text-decoration: none;
+    color: crimson;
+    text-shadow: 2px 2px gainsboro;
+}
+
+.articles:hover {
+    color: fuchsia;
+}
+
+#Contact {
+    background: firebrick;
+}
+
+#Contact iframe {
+    width: 100%;
+}
+
+.contact1 a {
+    color: white;
+    text-shadow: none;
+}
+
+.contact1 h3 {
+    display: inline;
+}
+
+
+
